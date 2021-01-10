@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 
 #creer le prefix du Bot
-bot = commands.Bot(command_prefix = "!", description = "Bot de squarfiuz07 et de nath")
+bot = commands.Bot(command_prefix = "!", description = "Bot de squarfiuz07")
 
 #changer l'activité du Bot
 @bot.event
